@@ -71,4 +71,4 @@ defaults:
     values:
       permalink: ""
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-architect
