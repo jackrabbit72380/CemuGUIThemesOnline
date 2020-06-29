@@ -71,4 +71,4 @@ defaults:
     values:
       permalink: ""
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
