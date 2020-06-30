@@ -70,4 +70,4 @@ defaults:
     values:
       permalink: ""
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
