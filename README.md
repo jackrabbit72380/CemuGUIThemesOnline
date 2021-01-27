@@ -5,4 +5,4 @@ The Website is coded in html/css & java script
 CemuGUI is a Windows Applcation that Launches Cemu a populer Wii U Games emulator
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+![screenshot](https://github.com/jackrabbit72380/CemuGUIThemesOnline/blob/master/Screenshot.png)
